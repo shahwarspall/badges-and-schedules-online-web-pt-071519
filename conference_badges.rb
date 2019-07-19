@@ -15,5 +15,3 @@ def assign_rooms(names)
   end
   room
 end
-
-end 
