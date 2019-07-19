@@ -25,3 +25,4 @@ def printer(attendees)
   attendee_rooms.each do |room_message|
     puts room_message
   end
+end
